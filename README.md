@@ -1,12 +1,7 @@
-# 🐈‍⬛ Hello World!! 🐈‍⬛
+<h1 align="center"> 🐈‍⬛ Hello World!! 🐈‍⬛ </h1>
 
 <p align="center">
-    <img
-        src="./assets/Tutu22-2.png"
-        width="160"
-        style="
-        border-radius: 50%;
-        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);"
+    <img src="./assets/Tutu22-2.png" width="200" height="200" alt="絵師を紹介してください.."
     />
 </p>
 
