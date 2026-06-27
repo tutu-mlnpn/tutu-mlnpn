@@ -51,9 +51,6 @@ My work is driven by curiosity, problem-solving, and a desire to make technology
 - Discord Development
 - UI / UX Design
 - Logo Design
-- Slice of Life Anime
-- Liminal Spaces
-- Melon Pan
 
 ---
 
@@ -111,7 +108,7 @@ src="https://streak-stats.demolab.com?user=tutu-mlnpn&theme=tokyonight&hide_bord
 
 # Favorite
 
-🍈 Melon Bread
+🍈 Melon Pan
 
 🐈 Black Cats
 
@@ -120,6 +117,8 @@ src="https://streak-stats.demolab.com?user=tutu-mlnpn&theme=tokyonight&hide_bord
 🎧 Music
 
 📺 Slice of Life Anime
+
+🚪 Liminal Spaces
 
 ---
 
