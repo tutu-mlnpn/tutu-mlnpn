@@ -1,104 +1,136 @@
-<h1 align="center"> 🐈‍⬛ Hello World!! 🐈‍⬛ </h1>
+<!-- ========================================================= -->
+
+<!--                        HEADER                             -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-    <img src="./assets/Tutu22-2.png" width="200" height="200" alt="絵師を紹介してください.."
-    />
+    <img src="./assets/header.png" width="100%" alt="Header">
+</p>
+
+<br>
+
+<p align="center">
+    <img src="./assets/Tutu22.png" width="180" alt="Tutu22">
+</p>
+
+<h1 align="center">Tutu22</h1>
+
+<p align="center">
+    Student Developer · AI · Web Systems
 </p>
 
 <p align="center">
-    <b>Student Developer / AI & Web Systems</b>
+    Pursuing the essence behind "why"
 </p>
 
 <p align="center">
     <a href="https://github.com/tutu-mlnpn">
-        <img
-            src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"
-        />
+        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge">
     </a>
     <a href="https://x.com/tutu_mlnpn">
-        <img
-            src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge"
-        />
+        <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge">
     </a>
 </p>
 
-<hr />
+---
 
-<section>
-    <h2>▶ Status & Philosophy</h2>
-    <p>黒猫とメロンパンを強く愛好する学生デベロッパー</p>
-    <ul>
-        <li><b>Name:</b> Tutu22 / ツツ</li>
-        <li><b>Role:</b> 学生 / プログラマー</li>
-        <li>
-            <b>Focus:</b> AI / Discord Bot / Web & App 開発 /
-            ロゴデザイン
-        </li>
-        <li>
-            <b>Hobby:</b> メロンパン, 音楽視聴, 自由研究,
-            日常系アニメ, ロゴデザイン, 猫コンテンツ視聴
-        </li>
-    </ul>
-</section>
+# About
 
-<hr />
+> **Design simple. Build reliable. Explore deeply.**
 
-<section>
-    <h2>▶ Tools & Technologies</h2>
-    <p>
-        <img
-            src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"
-        />
-        <img
-            src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat"
-        />
-        <img
-            src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat"
-        />
-        <img
-            src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=flat"
-        />
-    </p>
-    <p>
-        <img
-            src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat"
-        />
-        <img
-            src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat"
-        />
-        <img
-            src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat"
-        />
-        <img
-            src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat"
-        />
-    </p>
-</section>
+I'm a student developer who enjoys turning ideas into practical software and thoughtful experiences.
 
-<hr />
+My work is driven by curiosity, problem-solving, and a desire to make technology simpler and more intuitive.
 
-<section>
-    <h2>▶ GitHub Activity</h2>
-    <p align="center">
-        <a href="https://github.com/tutu-mlnpn">
-            <img
-                src="https://github-readme-stats.vercel.app/api?username=tutu-mlnpn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-                alt="GitHub Stats"
-            />
-        </a>
-        <a href="https://github.com/tutu-mlnpn">
-            <img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutu-mlnpn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-                alt="Top Langs"
-            />
-        </a>
-    </p>
-    <p align="center">
-        <a href="https://github.com/tutu-mlnpn">
-            <img
-                src="https://streak-stats.demolab.com?user=tutu-mlnpn&theme=tokyonight&hide_border=true&background=0D1117"
-                alt="GitHub Streak"
-            />
-        </a>
-    </p>
-</section>
+### Interests
+
+- Artificial Intelligence
+- Browser Engineering
+- Web Applications
+- Discord Development
+- UI / UX Design
+- Logo Design
+- Slice of Life Anime
+- Liminal Spaces
+- Melon Pan
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp"/>
+
+</p>
+
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,electron"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=tutu-mlnpn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutu-mlnpn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=tutu-mlnpn&theme=tokyonight&hide_border=true&background=0d1117"
+/>
+
+</p>
+
+---
+
+# Favorite
+
+🍈 Melon Bread
+
+🐈 Black Cats
+
+🎨 Logo Design
+
+🎧 Music
+
+📺 Slice of Life Anime
+
+---
+
+<p align="center">Thanks for visiting.</p>
+
+<!-- ========================================================= -->
+
+<!--                        FOOTER                             -->
+
+<!-- ========================================================= -->
+
+<p align="center">
+    <img src="./assets/footer.png" width="100%" alt="Footer">
+</p>
