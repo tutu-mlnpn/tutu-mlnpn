@@ -17,7 +17,7 @@
 <h1 align="center">Tutu22</h1>
 
 <p align="center">
-    Student Developer · AI · Web Systems
+    Student Developer · Web Systems
 </p>
 
 <p align="center">
