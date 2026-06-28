@@ -21,10 +21,6 @@
 </p>
 
 <p align="center">
-    Pursuing the essence behind "why"
-</p>
-
-<p align="center">
     <a href="https://github.com/tutu-mlnpn">
         <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge">
     </a>
@@ -34,14 +30,6 @@
 </p>
 
 ---
-
-# About
-
-> **Design simple. Build reliable. Explore deeply.**
-
-I'm a student developer who enjoys turning ideas into practical software and thoughtful experiences.
-
-My work is driven by curiosity, problem-solving, and a desire to make technology simpler and more intuitive.
 
 ### Interests
 
